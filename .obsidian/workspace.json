@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "763abbe1c80d949d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2d5f6da84e4c8e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa213f81711c2b76",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1df15ab734bf6c06",
+    "type": "split",
+    "children": [
+      {
+        "id": "08b44e6c36f02633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70c45e78a9d2e194",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd124ebb71775c52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5cb7694d958eaa2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "55a650e49094c4e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "98f527019796ba38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00c9728f00114a58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84690fc14e325efe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ecaaceb630b04fe5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8761fcd9efaa5aae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a05580b0134678e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "fa213f81711c2b76",
+  "lastOpenFiles": [
+    "PROGRAMMING/DSA/LeetCode/Remove Duplicates.md",
+    "PROGRAMMING/DSA/Linked List.md",
+    "PROGRAMMING/DSA/LeetCode/Partition List.md",
+    "PROGRAMMING/DSA/LeetCode/Reverse linkedList.md",
+    "PROGRAMMING/DSA/LeetCode/Remove nodes from linkedList.md",
+    "PROGRAMMING/DSA/LeetCode/LeetCode.md",
+    "PROGRAMMING/DSA/LeetCode/Find Tail in LinkedList.md",
+    "PROGRAMMING/DSA/LeetCode",
+    "PROGRAMMING/DSA/Data Structures and Algorithms.md",
+    "PROGRAMMING/DSA/Big O.md",
+    "PROGRAMMING/DSA/Bubble Sort.md",
+    "PROGRAMMING/Interview Questions.md",
+    "PROGRAMMING/OOP/Abstract Class.md",
+    "PROGRAMMING/DISTRIBUTED SYSTEMS.md",
+    "Excalidraw",
+    "PROGRAMMING/OOP/Interface.md",
+    "Excalidraw/Drawing 2023-11-29 22.08.00.excalidraw.md",
+    "PROGRAMMING/OOP/SOLID.md",
+    "PROGRAMMING/DP/Design Patterns.md",
+    "PROGRAMMING/DP/MVC.md",
+    "PROGRAMMING/DP/Repository.md",
+    "PROGRAMMING/DP/Singleton.md",
+    "PROGRAMMING/OOP/Object Oriented Programming.md",
+    "PROGRAMMING/DP",
+    "PROGRAMMING/OOP/Objects.md",
+    "PROGRAMMING/OOP/Classes.md",
+    "PROGRAMMING/OOP/Dependency Inversion Principle.md",
+    "PROGRAMMING/OOP/Liskov Substitution Principle.md",
+    "PROGRAMMING/OOP/Interface Segregation Principle.md",
+    "PROGRAMMING",
+    "Untitled.canvas",
+    "PROGRAMMING/OOP",
+    "PROGRAMMING/DSA"
+  ]
+}

@@ -1,0 +1,2 @@
+***
+Is a software design pattern that separates the related program logic into three interconnected elements: the model, the view, and the controller. The model represents the internal data and business logic of the application. The view displays the data from the model to the user and accepts use input. The controller handles the user input and updates the model and the view accordingly. This allows us to separate the data, the presentation, and the interaction of the appliction into different classes that can be modified independently.

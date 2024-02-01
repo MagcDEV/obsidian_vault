@@ -1,0 +1,2 @@
+***
+A class should be open for extension and closed for modification. This means that we can add new features or behaviors to a class without changing its existing code. This can be achieved by using [[Abstraction]], [[Inheritance]] and [[Polymorphism]]. For example, a class represents a shape can be extended by subclasses that represent different types of shapes, such as circle, square, triangle, etc. Each subclass can override the methods of the superclass to implement its own behavior, such as calculating the are or the perimeter.

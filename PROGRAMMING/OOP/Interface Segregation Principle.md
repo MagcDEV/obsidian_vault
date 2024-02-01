@@ -1,0 +1,2 @@
+***
+A class should not depend on methods that it does not use. This means that we should split large interfaces into smaller and more specific ones, so that the classes that implement them only need to implement the methods that are relevant to them. This reduces the coupling and increases the cohesion of the classes. For example, a class that represents a printer  should not implement an interface that contains methods for scanning, faxing, and copying, if it only needs to print. Instead, it should implement a smaller interface that only contains the print method.

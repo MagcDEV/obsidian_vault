@@ -1,0 +1,2 @@
+********
+A class should have only one responsibility and one reason to change. This makes the class more cohesive and easier to test, modify, and reuse. For example, a class that handles database operations should not also handle user input of logging logic.
