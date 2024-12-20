@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ204/Untitled.md",
+                "file": "Generics.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Generics"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AZ204/Untitled.md",
+                "file": "Generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Generics"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AZ204/Untitled.md",
+                "file": "PROGRAMMING/DP/Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Design Patterns"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AZ204/Untitled.md"
-              }
+                "file": "PROGRAMMING/DP/Design Patterns.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Design Patterns"
             }
           },
           {
@@ -134,11 +150,12 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,8 +176,10 @@
   },
   "active": "5b76111c56bb8f02",
   "lastOpenFiles": [
-    "PROGRAMMING/DISTRIBUTED SYSTEMS.md",
+    "PROGRAMMING/DP/Design Patterns.md",
+    "Generics.md",
     "AZ204/Untitled.md",
+    "PROGRAMMING/DISTRIBUTED SYSTEMS.md",
     "AZ204",
     "PROGRAMMING/Interview Questions.md",
     "PROGRAMMING/OOP/Encapsulation.md",
@@ -183,11 +202,9 @@
     "PROGRAMMING/OOP/Interface.md",
     "Excalidraw/Drawing 2023-11-29 22.08.00.excalidraw.md",
     "PROGRAMMING/OOP/SOLID.md",
-    "PROGRAMMING/DP/Design Patterns.md",
     "PROGRAMMING/DP/MVC.md",
     "PROGRAMMING/DP/Repository.md",
     "PROGRAMMING/DP/Singleton.md",
-    "PROGRAMMING/OOP/Object Oriented Programming.md",
     "PROGRAMMING/DP",
     "PROGRAMMING",
     "Untitled.canvas",

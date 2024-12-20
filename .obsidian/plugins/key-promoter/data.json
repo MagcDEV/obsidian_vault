@@ -1,0 +1,15 @@
+{
+  "showUnassigned": true,
+  "showAssigned": true,
+  "threshold": 0,
+  "notificationTimeout": 5,
+  "template": "`{{commandId}}` - {{commandName}} - `{{hotkey}}`\n",
+  "descriptionOfActions": true,
+  "mouseStatistics": {
+    "workspace:close-window": 1,
+    "switcher:open": 1,
+    "file-explorer:new-file": 1,
+    "file-explorer:new-file-in-current-tab": 1
+  },
+  "keyboardStatistics": {}
+}
