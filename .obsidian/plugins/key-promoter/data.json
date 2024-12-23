@@ -8,8 +8,8 @@
   "mouseStatistics": {
     "workspace:close-window": 1,
     "switcher:open": 1,
-    "file-explorer:new-file": 1,
-    "file-explorer:new-file-in-current-tab": 1
+    "file-explorer:new-file": 2,
+    "file-explorer:new-file-in-current-tab": 2
   },
   "keyboardStatistics": {}
 }

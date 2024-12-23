@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Generics"
             }
+          },
+          {
+            "id": "a28b6e3fbc098a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Delegates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Delegates"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "55a650e49094c4e2",
@@ -174,10 +190,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b76111c56bb8f02",
+  "active": "a28b6e3fbc098a21",
   "lastOpenFiles": [
-    "PROGRAMMING/DP/Design Patterns.md",
     "Generics.md",
+    "Delegates.md",
+    "PROGRAMMING/DP/Design Patterns.md",
     "AZ204/Untitled.md",
     "PROGRAMMING/DISTRIBUTED SYSTEMS.md",
     "AZ204",
@@ -204,7 +221,6 @@
     "PROGRAMMING/OOP/SOLID.md",
     "PROGRAMMING/DP/MVC.md",
     "PROGRAMMING/DP/Repository.md",
-    "PROGRAMMING/DP/Singleton.md",
     "PROGRAMMING/DP",
     "PROGRAMMING",
     "Untitled.canvas",
