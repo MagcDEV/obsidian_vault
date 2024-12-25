@@ -1,3 +1,5 @@
+ Tags: [[Dotnet]], [[Csharp]] 
+ ----
 With generics you can define classes, interfaces, and methods with a placeholder for the type of the data they use, this allows for type safety without committing to an actual data type until the generic is called or instantiated.
 
 ``` csharp

@@ -1,3 +1,5 @@
+ Tags: [[Dotnet]], [[Csharp]] 
+ ----
 Are a type that represents references to methods with a specific parameter list and return type. They are uses to pass methods as arguments or other methods, define callback methods, and implement event handling.
 
 NOTE: Callback methods are methods that are passed as arguments to other methods and are invoked after a certain operation is completed. They allow for asynchronous execution and decoupling of method calls, making the code more flexible and modular.
@@ -80,12 +82,8 @@ public class Program
         evenNumbers.ForEach(Console.WriteLine); // Output: 2, 4, 6
     }
 }
-
-
-
-
-
 ```
+Represent a method that takes a parameter of type T and returns a bool (true or false)
 
 
 

@@ -6,10 +6,18 @@
   "template": "`{{commandId}}` - {{commandName}} - `{{hotkey}}`\n",
   "descriptionOfActions": true,
   "mouseStatistics": {
-    "workspace:close-window": 1,
+    "workspace:close-window": 3,
     "switcher:open": 1,
-    "file-explorer:new-file": 2,
-    "file-explorer:new-file-in-current-tab": 2
+    "file-explorer:new-file": 5,
+    "file-explorer:new-file-in-current-tab": 5,
+    "file-explorer:new-folder": 1,
+    "app:delete-file": 1,
+    "editor:delete-paragraph": 1,
+    "editor:table-row-delete": 1,
+    "editor:table-col-delete": 1,
+    "table-editor-obsidian:delete-column": 1,
+    "table-editor-obsidian:delete-row": 1,
+    "obsidian-excalidraw-plugin:delete-file": 1
   },
   "keyboardStatistics": {}
 }
