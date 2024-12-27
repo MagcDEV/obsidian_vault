@@ -6,7 +6,7 @@
   "template": "`{{commandId}}` - {{commandName}} - `{{hotkey}}`\n",
   "descriptionOfActions": true,
   "mouseStatistics": {
-    "workspace:close-window": 3,
+    "workspace:close-window": 4,
     "switcher:open": 1,
     "file-explorer:new-file": 5,
     "file-explorer:new-file-in-current-tab": 5,
